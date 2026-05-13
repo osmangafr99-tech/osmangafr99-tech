@@ -104,25 +104,28 @@ https://github.com/osmangafr99-tech/Bank-System-Currency-Exchange-
 ### 📦 Dynamic Array Class
 Custom implementation of a dynamic array in C++.
 
+https://github.com/osmangafr99-tech/Project-18-Dynamic-Array-Class-
 
 ---
 
 ### 🔗 Double Linked List Class
 Full implementation of a double linked list data structure.
 
+https://github.com/osmangafr99-tech/Project-15-Double-Linked-List-Class
 
 ---
 
 ### 📚 String Library
 Custom string utilities using OOP.
 
+https://github.com/osmangafr99-tech/Project-8-String-Library-OOP-
 
 ---
 
 ### 📅 Date & Period Libraries
 Libraries for managing dates and periods.
 
-
+https://github.com/osmangafr99-tech/Project-9-Date-and-Period-Libraries-OOP-
 
 ---
 
