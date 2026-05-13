@@ -78,15 +78,8 @@
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
-
+  <img src="https://metrics.lecoq.io/osmangafr99-tech?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Africa%2FCairo" alt="GitHub Metrics" />
 </p>
-
 ---
 
 # ⭐ Featured Projects
