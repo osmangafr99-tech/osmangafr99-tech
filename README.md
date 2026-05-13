@@ -73,7 +73,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osmangafr99-tech&theme=tokyo-night&area=true" alt="Activity Graph" />
 </p>
 
+
 ---
+
 
 # 📊 GitHub Metrics Dashboard
 
@@ -176,5 +178,3 @@ public:
 };
 
 
-*.cpp linguist-language=cpp
-*.h linguist-language=cpp
