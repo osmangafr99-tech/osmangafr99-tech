@@ -94,35 +94,31 @@
 ### ⭐ Bank System & Currency Exchange
 Complete banking system built using OOP.
 
-https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP
+
 
 ---
 
 ### 📦 Dynamic Array Class
 Custom implementation of a dynamic array in C++.
 
-https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class
 
 ---
 
 ### 🔗 Double Linked List Class
 Full implementation of a double linked list data structure.
 
-https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class
 
 ---
 
 ### 📚 String Library
 Custom string utilities using OOP.
 
-https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-
 
 ---
 
 ### 📅 Date & Period Libraries
 Libraries for managing dates and periods.
 
-https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 
 ---
