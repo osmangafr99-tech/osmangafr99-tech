@@ -65,6 +65,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osmangafr99-tech&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
+
 ---
 
 # 📈 Activity Graph
