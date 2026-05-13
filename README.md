@@ -78,8 +78,15 @@
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/osmangafr99-tech?template=classic&base=header%2C+activity%2C+community%2C+repositories%2C+metadata&config.timezone=Africa%2FCairo" alt="GitHub Metrics" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmangafr99-tech&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmangafr99-tech&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=osmangafr99-tech&theme=tokyonight"/>
+
 </p>
+
 ---
 
 # ⭐ Featured Projects
