@@ -156,24 +156,27 @@ Libraries for managing dates and periods.
 ```cpp
 // Focused on mastering Software Development
 
-class AhmedYaserMt
+// Focused on mastering Software Development
+
+class OthmanGafar 
 {
 public:
+    string university = "Al-Azhar University";
+    
+    string faculty = "License Degree in Sharia and Law";
+    
+    string track = "Future Software Developer";
+    
+    string passion = "C++, OOP & Building Systems";
 
-  string university = "Benha University";
-
- string faculty = "Faculty of Computers & Artificial Intelligence (BFCAI)";
-
- string track = "Future Software Developer";
-
- string passion = "Problem Solving & Building Systems";
-
- void sayHi()
- {
-     cout << "Thanks for visiting my profile 🚀";
- }
+    void sayHi() 
+    {
+        cout << "Thanks for visiting my profile 🚀";
+    }
 };
-```
+
+---
+
 
 ---
 
