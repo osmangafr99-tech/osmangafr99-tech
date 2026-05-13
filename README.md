@@ -71,7 +71,13 @@
 # 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osmangafr99-tech&theme=tokyo-night&area=true" alt="Activity Graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=osmangafr99-tech&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=osmangafr99-tech&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?usernameosmangafr99-tech&theme=tokyonight"/>
+
 </p>
 
 
