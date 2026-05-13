@@ -125,23 +125,29 @@ Libraries for managing dates and periods.
 
 # 📬 Contact Me
 
+---
+## 📬 Contact Me
+
 <p align="center">
+  <!-- LinkedIn رابط -->
+  <a href="ضع_رابط_لينكد_إن_هنا">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <!-- Gmail رابط -->
+  <a href="mailto:أكتب_ايميلك_هنا@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:ahmed.yaser.mt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+  <!-- WhatsApp رابط -->
+  <a href="https://wa.me/20أكتب_رقمك_هنا">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-<a href="https://wa.me/201014842264">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
-</a>
-
-<a href="https://t.me/AhmedYaserMt">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
-</a>
+  <!-- Telegram رابط -->
+  <a href="https://t.me/أكتب_يوزر_تليجرام_هنا">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 
 </p>
 
