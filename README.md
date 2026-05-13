@@ -175,3 +175,6 @@ public:
     }
 };
 
+
+*.cpp linguist-language=cpp
+*.h linguist-language=cpp
