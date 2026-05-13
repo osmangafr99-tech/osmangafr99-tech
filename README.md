@@ -130,17 +130,17 @@ Libraries for managing dates and periods.
 
 <p align="center">
   <!-- LinkedIn رابط -->
-  <a href="ضع_رابط_لينكد_إن_هنا">
+  <a href="https://www.linkedin.com/in/osman-gafer-%F0%9F%92%BB-97853636a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!-- Gmail رابط -->
-  <a href="mailto:أكتب_ايميلك_هنا@gmail.com">
+  <a href="mailto:osmangafr99@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
   <!-- WhatsApp رابط -->
-  <a href="https://wa.me/20أكتب_رقمك_هنا">
+  <a href="https://wa.me/201150679370">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
