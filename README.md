@@ -14,27 +14,24 @@
 
 # 👨‍💻 About Me
 
-🎓 Student at **Benha Faculty of Computers & Artificial Intelligence**
+*   🎓 Graduate of Sharia and Law from Al-Azhar University.
+*   💻 Software engineer with a passion for developing technical solutions.
+*   📚 Currently studying with Dr. Mohamed Abu Hadhoud (ProgrammingAdvices).
 
-💻 Passionate about **Software Development**
+#### 📚 Focused on:
+*   🔷 C++
+*   🔷 Object-Oriented Programming (OOP)
+*   🔷 Data Structures
+*   🔷 Algorithms & Problem Solving
 
-📚 Focused on :
+#### 📈 Currently expanding into:
+*   🔷 C#
+*   🔷 .NET Development
+*   🔷 Windows Forms
+*   🔷 SQL Server
 
- 🔹 C++  
- 🔹 Object-Oriented Programming  
- 🔹 Data Structures  
- 🔹 Algorithms & Problem Solving  
-
-📈 Currently expanding into:
-
- 🔹 C#  
- 🔹 .NET Development  
- 🔹 Windows Forms  
- 🔹 SQL Server  
-
-📍 Following **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
-
+---
+📍 **Following ProgrammingAdvices Roadmap** 👨‍🏫 **Instructor Dr. Mohammed Abu-Hadhoud**
 ---
 
 # 🛠 Skills & Tools
