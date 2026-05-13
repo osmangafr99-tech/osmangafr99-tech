@@ -70,7 +70,7 @@
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osmangafr99-tech&theme=tokyo-night&area=true" alt="Activity Graph" />
 </p>
 
 ---
